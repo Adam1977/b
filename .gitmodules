@@ -1,6 +1,6 @@
 [submodule "aa/a"]
 	path = aa/a
 	url = git@github.com:Adam1977/a.git
-[submodule "aa/test/cccccc"]
-	path = aa/test/cccccc
+[submodule "aa/test"]
+	path = aa/test
 	url = git@github.com:Adam1977/a.git
